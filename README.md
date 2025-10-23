@@ -1,4 +1,4 @@
-# 🧺 Cesta produtos com SQLite (Node.js)
+# 🧺 QuickCart - Cesta produtos com SQLite (Node.js)
 
 Projeto simples e modular de um sistema de CESTA/CARRINHO onde **cada usuário possui uma UUID única** que identifica seus itens adicionados. Usando `Node.js`, `Express` e `SQLite` para uma API REST limpa, leve e sem dependências externas pesadas.
 
